@@ -1,0 +1,26 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "Discord Bot Project for Music and Minigames",
+  "main": "index.js",
+  "scripts": {
+    "test": "/run dcbot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tuandn1/DiscordBot.git"
+  },
+  "keywords": [
+    "Discord",
+    "Bot"
+  ],
+  "author": "Tuan Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tuandn1/DiscordBot/issues"
+  },
+  "homepage": "https://github.com/Tuandn1/DiscordBot#readme",
+  "dependencies": {
+    "discord.js": "^14.18.0"
+  }
+}
